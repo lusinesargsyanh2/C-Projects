@@ -1,0 +1,11 @@
+# compiled binaries
+client
+server
+*.out
+*.exe
+
+# object files
+*.o
+
+# db files
+*products.txt
